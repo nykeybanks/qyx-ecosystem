@@ -1,0 +1,315 @@
+[
+  {
+    "id": "01",
+    "name": "Monochrome Dark",
+    "variant": null,
+    "colorScheme": "dark",
+    "source": "QYXos edition-token reference",
+    "version": "2.0.0",
+    "palette": {
+      "canvas": "#090B0D",
+      "surface": "#191B1E",
+      "text": "#F6F6F4",
+      "accent": "#C5C7CA"
+    },
+    "material": "satin",
+    "assets": "white",
+    "preview": {
+      "label": "01 — Monochrome Dark",
+      "query": "?edition=01"
+    }
+  },
+  {
+    "id": "02",
+    "name": "Monochrome White",
+    "variant": null,
+    "colorScheme": "light",
+    "source": "QYXos edition-token reference",
+    "version": "2.0.0",
+    "palette": {
+      "canvas": "#F4F4F0",
+      "surface": "#E8E8E5",
+      "text": "#1A1B1E",
+      "accent": "#777D81"
+    },
+    "material": "pearl",
+    "assets": "black",
+    "preview": {
+      "label": "02 — Monochrome White",
+      "query": "?edition=02"
+    }
+  },
+  {
+    "id": "03",
+    "name": "Silver Haze",
+    "variant": null,
+    "colorScheme": "light",
+    "source": "QYXos edition-token reference",
+    "version": "2.0.0",
+    "palette": {
+      "canvas": "#C8CBCC",
+      "surface": "#E2E2E0",
+      "text": "#171D20",
+      "accent": "#7E858D"
+    },
+    "material": "metal",
+    "assets": "black",
+    "preview": {
+      "label": "03 — Silver Haze",
+      "query": "?edition=03"
+    }
+  },
+  {
+    "id": "04",
+    "name": "Grayscale Editorial",
+    "variant": null,
+    "colorScheme": "light",
+    "source": "QYXos edition-token reference",
+    "version": "2.0.0",
+    "palette": {
+      "canvas": "#F3F3F0",
+      "surface": "#FFFFFF",
+      "text": "#171717",
+      "accent": "#4A4A4A"
+    },
+    "material": "editorial",
+    "assets": "black",
+    "preview": {
+      "label": "04 — Grayscale Editorial",
+      "query": "?edition=04"
+    }
+  },
+  {
+    "id": "05",
+    "name": "Sepia Neutral",
+    "variant": null,
+    "colorScheme": "light",
+    "source": "QYXos edition-token reference",
+    "version": "2.0.0",
+    "palette": {
+      "canvas": "#EEE8DD",
+      "surface": "#F6F2E9",
+      "text": "#28231E",
+      "accent": "#A78E71"
+    },
+    "material": "warm",
+    "assets": "black",
+    "preview": {
+      "label": "05 — Sepia Neutral",
+      "query": "?edition=05"
+    }
+  },
+  {
+    "id": "06",
+    "name": "Institutionnel Gridline Clair",
+    "variant": null,
+    "colorScheme": "light",
+    "source": "QYXos edition-token reference",
+    "version": "2.0.0",
+    "palette": {
+      "canvas": "#EAE9E5",
+      "surface": "#F5F3EE",
+      "text": "#20242A",
+      "accent": "#A88B60"
+    },
+    "material": "grid",
+    "assets": "black",
+    "preview": {
+      "label": "06 — Institutionnel Gridline Clair",
+      "query": "?edition=06"
+    }
+  },
+  {
+    "id": "07",
+    "name": "Institutionnel Gridline Sombre",
+    "variant": null,
+    "colorScheme": "dark",
+    "source": "QYXos edition-token reference",
+    "version": "2.0.0",
+    "palette": {
+      "canvas": "#151A1F",
+      "surface": "#23292E",
+      "text": "#F0EEE9",
+      "accent": "#C2AA81"
+    },
+    "material": "grid",
+    "assets": "white",
+    "preview": {
+      "label": "07 — Institutionnel Gridline Sombre",
+      "query": "?edition=07"
+    }
+  },
+  {
+    "id": "08",
+    "name": "Blueprint Graphite",
+    "variant": null,
+    "colorScheme": "dark",
+    "source": "QYXos edition-token reference",
+    "version": "2.0.0",
+    "palette": {
+      "canvas": "#192027",
+      "surface": "#232C34",
+      "text": "#F1F0EC",
+      "accent": "#B8A589"
+    },
+    "material": "blueprint",
+    "assets": "white",
+    "preview": {
+      "label": "08 — Blueprint Graphite",
+      "query": "?edition=08"
+    }
+  },
+  {
+    "id": "09",
+    "name": "Outline Minimal",
+    "variant": null,
+    "colorScheme": "light",
+    "source": "QYXos edition-token reference",
+    "version": "2.0.0",
+    "palette": {
+      "canvas": "#F4F4F1",
+      "surface": "#FFFFFF",
+      "text": "#16181A",
+      "accent": "#A5A5A1"
+    },
+    "material": "outline",
+    "assets": "black",
+    "preview": {
+      "label": "09 — Outline Minimal",
+      "query": "?edition=09"
+    },
+    "variants": {
+      "dark": {
+        "palette": {
+          "canvas": "#090B0D",
+          "surface": "#121518",
+          "text": "#F5F4F0",
+          "accent": "#C5C7CA"
+        },
+        "colorScheme": "dark",
+        "assets": "white",
+        "source": "Project adaptation; not canonical preset"
+      }
+    }
+  },
+  {
+    "id": "10",
+    "name": "Obsidian Platinum",
+    "variant": null,
+    "colorScheme": "dark",
+    "source": "QYXos edition-token reference",
+    "version": "2.0.0",
+    "palette": {
+      "canvas": "#090B0C",
+      "surface": "#17191B",
+      "text": "#F5F4F0",
+      "accent": "#D4C4A8"
+    },
+    "material": "obsidian",
+    "assets": "silver-metallic",
+    "preview": {
+      "label": "10 — Obsidian Platinum",
+      "query": "?edition=10"
+    }
+  },
+  {
+    "id": "11",
+    "name": "Champagne Soft",
+    "variant": null,
+    "colorScheme": "light",
+    "source": "QYXos edition-token reference",
+    "version": "2.0.0",
+    "palette": {
+      "canvas": "#F2EDE5",
+      "surface": "#FFF9EE",
+      "text": "#27221D",
+      "accent": "#C4A279"
+    },
+    "material": "warm",
+    "assets": "black",
+    "preview": {
+      "label": "11 — Champagne Soft",
+      "query": "?edition=11"
+    }
+  },
+  {
+    "id": "12",
+    "name": "Cinematic Gold",
+    "variant": null,
+    "colorScheme": "dark",
+    "source": "QYXos edition-token reference",
+    "version": "2.0.0",
+    "palette": {
+      "canvas": "#0E0C0A",
+      "surface": "#1B1815",
+      "text": "#F7F0E6",
+      "accent": "#BA955E"
+    },
+    "material": "cinematic",
+    "assets": "white",
+    "preview": {
+      "label": "12 — Cinematic Gold",
+      "query": "?edition=12"
+    }
+  },
+  {
+    "id": "13",
+    "name": "Titanium Industrial",
+    "variant": null,
+    "colorScheme": "dark",
+    "source": "QYXos edition-token reference",
+    "version": "2.0.0",
+    "palette": {
+      "canvas": "#1A1F23",
+      "surface": "#2C3338",
+      "text": "#F0F1EE",
+      "accent": "#B6A588"
+    },
+    "material": "industrial",
+    "assets": "white",
+    "preview": {
+      "label": "13 — Titanium Industrial",
+      "query": "?edition=13"
+    }
+  },
+  {
+    "id": "14",
+    "name": "Glass Neutral",
+    "variant": null,
+    "colorScheme": "light",
+    "source": "QYXos edition-token reference",
+    "version": "2.0.0",
+    "palette": {
+      "canvas": "#CDD3D8",
+      "surface": "#E6EAEC",
+      "text": "#1A2024",
+      "accent": "#9D8F7A"
+    },
+    "material": "glass",
+    "assets": "black",
+    "preview": {
+      "label": "14 — Glass Neutral",
+      "query": "?edition=14"
+    }
+  },
+  {
+    "id": "15",
+    "name": "Architectural Matte",
+    "variant": null,
+    "colorScheme": "dark",
+    "source": "QYXos edition-token reference",
+    "version": "2.0.0",
+    "palette": {
+      "canvas": "#23282C",
+      "surface": "#33393B",
+      "text": "#F4F0E7",
+      "accent": "#C7AE87"
+    },
+    "material": "architectural",
+    "assets": "white",
+    "preview": {
+      "label": "15 — Architectural Matte",
+      "query": "?edition=15"
+    }
+  }
+]
