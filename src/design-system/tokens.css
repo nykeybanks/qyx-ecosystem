@@ -862,3 +862,18 @@ button,
 .ai-sphere {
   animation: none;
 }
+/* Keep original wordmarks contained in compact satellite slots at every breakpoint. */
+.sat-icon {
+  flex-shrink: 0;
+}
+.sat-icon img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+[data-edition="03"] .card-art,
+[data-edition="10"] .card-art,
+[data-edition="12"] .card-art,
+[data-edition="13"] .card-art {
+  background-size: cover;
+}

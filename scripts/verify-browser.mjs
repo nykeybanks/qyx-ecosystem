@@ -254,6 +254,19 @@ await check(
         ),
         `overflow at ${width}`,
       );
+      assert.equal(
+        await page.evaluate(() =>
+          [...document.querySelectorAll(".sat-icon img")].every((img) => {
+            const image = img.getBoundingClientRect(),
+              slot = img.parentElement.getBoundingClientRect();
+            return (
+              image.width <= slot.width + 1 && image.height <= slot.height + 1
+            );
+          }),
+        ),
+        true,
+        `logo-slot overflow at ${width}`,
+      );
       if (width < 761) {
         await page.locator("#menu-toggle").click();
         await page.locator("#main-nav [data-open-appearance]").click();
