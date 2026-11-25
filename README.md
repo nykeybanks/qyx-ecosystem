@@ -33,3 +33,7 @@ Keep project names unique across families. Update snapshot copy in `index.html` 
 ## Preview verification
 
 All explorer flows are reachable signed out. External apps may have their own authentication and are outside this site's test boundary. Check hero satellites, story tabs and keyboard navigation, search plus categories, no-results reset, modal Escape and next/previous, reduced-motion/pause, and mobile menu. No wallet or payment operations are implemented by this directory.
+
+## Proposed 15-edition design system
+
+See [system and provenance](docs/QYX_DESIGN_SYSTEM.md) and [v0 handoff](docs/QYX_V0_IMPORT.md). Default: Edition 10. Review: `/?review=design-system`. Appearance preview: `?edition=09&variant=dark`. This enhancement depends on application PR #1 and does not constitute production promotion or final design approval.

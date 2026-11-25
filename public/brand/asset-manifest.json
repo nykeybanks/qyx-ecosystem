@@ -1,0 +1,793 @@
+{
+  "sourceArchive": "QYX_Curated_Transparent_PNGs.zip",
+  "sourceSha256": "887966b24d5c01349c8441dc0ab4b56be74b0c64e5675a5e3bb9c6a3e422bbb7",
+  "provenance": "User supplied November 25, 2026; original bytes preserved. Not evidence of registration or formal master approval.",
+  "files": [
+    {
+      "path": "qyx/QYXnext-black.png",
+      "identity": "QYXnext",
+      "variant": "black",
+      "width": 250,
+      "height": 71,
+      "hasAlpha": true,
+      "alphaBounds": [
+        16,
+        16,
+        234,
+        55
+      ],
+      "sha256": "ce1268783016bf6ed6a6674f8443cf61360dede69956443bb43f4caca7dcd416"
+    },
+    {
+      "path": "qyx/QYXnext-by-QuantumYield-21x9-transparent-removebg-preview.png",
+      "identity": "QYXnext-by-QuantumYield-21x9-transparent-removebg-preview.png",
+      "variant": "source-specific",
+      "width": 1187,
+      "height": 210,
+      "hasAlpha": true,
+      "alphaBounds": [
+        0,
+        61,
+        1186,
+        172
+      ],
+      "sha256": "63bc9b269d933615330055ad247e73ff56567cdfcf556b5c58b7682e89cb6c87"
+    },
+    {
+      "path": "qyx/QYXnext-outline.png",
+      "identity": "QYXnext",
+      "variant": "outline",
+      "width": 255,
+      "height": 74,
+      "hasAlpha": true,
+      "alphaBounds": [
+        16,
+        16,
+        239,
+        58
+      ],
+      "sha256": "78b8859667dab59b505c68e74440a9dfa8deae225df179db59653d6dd9583657"
+    },
+    {
+      "path": "qyx/QYXnext-silver-metallic.png",
+      "identity": "QYXnext",
+      "variant": "silver-metallic",
+      "width": 253,
+      "height": 71,
+      "hasAlpha": true,
+      "alphaBounds": [
+        16,
+        16,
+        237,
+        55
+      ],
+      "sha256": "8e25e6d1ecf9d9110e18fb46b2273922015396bc9c0c0bff5a92d9fd0b8194e4"
+    },
+    {
+      "path": "qyx/QYXnext-white.png",
+      "identity": "QYXnext",
+      "variant": "white",
+      "width": 250,
+      "height": 73,
+      "hasAlpha": true,
+      "alphaBounds": [
+        16,
+        16,
+        234,
+        57
+      ],
+      "sha256": "7b4b9b719d02c79d35860c81eae4fabeaca62f620e527920c8171b4698c817fb"
+    },
+    {
+      "path": "qyx/QYXpass-black.png",
+      "identity": "QYXpass",
+      "variant": "black",
+      "width": 250,
+      "height": 76,
+      "hasAlpha": true,
+      "alphaBounds": [
+        16,
+        16,
+        234,
+        60
+      ],
+      "sha256": "b8619f8c0a6d85d643e962784e47b8eaf3a3088464446b5d721c7d0a750fac6b"
+    },
+    {
+      "path": "qyx/QYXpass-outline.png",
+      "identity": "QYXpass",
+      "variant": "outline",
+      "width": 256,
+      "height": 81,
+      "hasAlpha": true,
+      "alphaBounds": [
+        16,
+        16,
+        240,
+        65
+      ],
+      "sha256": "628fd688c0679ae960a966bea4a95e1ae7bfec08a0a7653bcf66e3a2ccb67397"
+    },
+    {
+      "path": "qyx/QYXpass-silver-metallic.png",
+      "identity": "QYXpass",
+      "variant": "silver-metallic",
+      "width": 254,
+      "height": 78,
+      "hasAlpha": true,
+      "alphaBounds": [
+        16,
+        16,
+        238,
+        62
+      ],
+      "sha256": "4d8a3d2cb222d337e4f003ed072b0bc1cadb95ba6549a990c7c13355b6d6c914"
+    },
+    {
+      "path": "qyx/QYXpass-white.png",
+      "identity": "QYXpass",
+      "variant": "white",
+      "width": 252,
+      "height": 78,
+      "hasAlpha": true,
+      "alphaBounds": [
+        16,
+        16,
+        236,
+        62
+      ],
+      "sha256": "21cb0fb5d4860a77a853cb79a89bad11d039ae1cb4a629ae936b04d0a1492230"
+    },
+    {
+      "path": "qyx/QYXpay-black.png",
+      "identity": "QYXpay",
+      "variant": "black",
+      "width": 250,
+      "height": 78,
+      "hasAlpha": true,
+      "alphaBounds": [
+        16,
+        16,
+        234,
+        62
+      ],
+      "sha256": "d84c9691b59abad824bf377dc60e7e7f8eb4440f4ffeb6f63a4cf2732e867897"
+    },
+    {
+      "path": "qyx/QYXpay-outline.png",
+      "identity": "QYXpay",
+      "variant": "outline",
+      "width": 256,
+      "height": 82,
+      "hasAlpha": true,
+      "alphaBounds": [
+        16,
+        16,
+        240,
+        66
+      ],
+      "sha256": "596e7e1b47319fb1666cb8d26201370e7d7dd15a02134fed3ae44f6bf19e9e47"
+    },
+    {
+      "path": "qyx/QYXpay-silver-metallic.png",
+      "identity": "QYXpay",
+      "variant": "silver-metallic",
+      "width": 252,
+      "height": 78,
+      "hasAlpha": true,
+      "alphaBounds": [
+        16,
+        16,
+        236,
+        62
+      ],
+      "sha256": "902c2bf3c8845249c2a5e2863434b6014dffa78f970d95123910833482da7034"
+    },
+    {
+      "path": "qyx/QYXpay-white.png",
+      "identity": "QYXpay",
+      "variant": "white",
+      "width": 252,
+      "height": 80,
+      "hasAlpha": true,
+      "alphaBounds": [
+        16,
+        16,
+        236,
+        64
+      ],
+      "sha256": "787465e078b982f264be9ffd6215b44883fe6af6ec858583e75da8f12b907ed6"
+    },
+    {
+      "path": "qyx/header-qyx-lockup-transparent.png",
+      "identity": "header-qyx-lockup-transparent.png",
+      "variant": "source-specific",
+      "width": 236,
+      "height": 93,
+      "hasAlpha": true,
+      "alphaBounds": [
+        7,
+        8,
+        226,
+        88
+      ],
+      "sha256": "68645dc10acde224e0ca430509b630fde4066b93b925d5a4a30c9a2bf55eec05"
+    },
+    {
+      "path": "qyx/horizontal-qyx-transparent.png",
+      "identity": "horizontal-qyx-transparent.png",
+      "variant": "source-specific",
+      "width": 240,
+      "height": 65,
+      "hasAlpha": true,
+      "alphaBounds": [
+        6,
+        5,
+        230,
+        62
+      ],
+      "sha256": "4883a78dafd0753d650735ae9debf6249ad0b22604624565b9bd9faf337e77f7"
+    },
+    {
+      "path": "qyx/q-emblem-black.png",
+      "identity": "q-emblem",
+      "variant": "black",
+      "width": 182,
+      "height": 82,
+      "hasAlpha": true,
+      "alphaBounds": [
+        3,
+        0,
+        166,
+        82
+      ],
+      "sha256": "59f5b1691adddf3d323c255e9a0bfeb6eab5261be2af91022540db21c44d6434"
+    },
+    {
+      "path": "qyx/q-emblem-outline.png",
+      "identity": "q-emblem",
+      "variant": "outline",
+      "width": 190,
+      "height": 82,
+      "hasAlpha": true,
+      "alphaBounds": [
+        2,
+        0,
+        179,
+        82
+      ],
+      "sha256": "7a337cbbe21ac6f2cdb8baae8c73fb060024bd4ae26714dc726d1cd7d742876f"
+    },
+    {
+      "path": "qyx/q-emblem-silver-metallic.png",
+      "identity": "q-emblem",
+      "variant": "silver-metallic",
+      "width": 185,
+      "height": 82,
+      "hasAlpha": true,
+      "alphaBounds": [
+        2,
+        0,
+        175,
+        82
+      ],
+      "sha256": "95952204f4490084da3b8db95f30f0be49c1e05e135ca1150496f70de3f96bb3"
+    },
+    {
+      "path": "qyx/q-emblem-white.png",
+      "identity": "q-emblem",
+      "variant": "white",
+      "width": 183,
+      "height": 82,
+      "hasAlpha": true,
+      "alphaBounds": [
+        0,
+        0,
+        177,
+        82
+      ],
+      "sha256": "bf5e9d482fdc6efacbd1f48117c097fea0c077a6ba29a1f89bdf922441ea4ef4"
+    },
+    {
+      "path": "qyx/quantumyield-black.png",
+      "identity": "quantumyield",
+      "variant": "black",
+      "width": 182,
+      "height": 33,
+      "hasAlpha": true,
+      "alphaBounds": [
+        0,
+        0,
+        182,
+        33
+      ],
+      "sha256": "c14b00f32846acdf7d7ea1d2872185b375900cde873a20adb86066058def97ff"
+    },
+    {
+      "path": "qyx/quantumyield-outline.png",
+      "identity": "quantumyield",
+      "variant": "outline",
+      "width": 190,
+      "height": 33,
+      "hasAlpha": true,
+      "alphaBounds": [
+        0,
+        0,
+        189,
+        33
+      ],
+      "sha256": "5beedc5511533c04cfe3f1c76b0a16a39a9ab9cf76db3e9dbf34c7cf7f11b17d"
+    },
+    {
+      "path": "qyx/quantumyield-silver-metallic.png",
+      "identity": "quantumyield",
+      "variant": "silver-metallic",
+      "width": 185,
+      "height": 33,
+      "hasAlpha": true,
+      "alphaBounds": [
+        0,
+        0,
+        185,
+        33
+      ],
+      "sha256": "7917bb2c3d94239da6093ad602759674e219dd9d4a9450ea24de7af57d880921"
+    },
+    {
+      "path": "qyx/quantumyield-white.png",
+      "identity": "quantumyield",
+      "variant": "white",
+      "width": 183,
+      "height": 33,
+      "hasAlpha": true,
+      "alphaBounds": [
+        0,
+        0,
+        183,
+        33
+      ],
+      "sha256": "d055a1c9ad92b96059014f2be88981f910c552749954474563825929b93803b5"
+    },
+    {
+      "path": "qyx/qyx-black.png",
+      "identity": "qyx",
+      "variant": "black",
+      "width": 182,
+      "height": 56,
+      "hasAlpha": true,
+      "alphaBounds": [
+        7,
+        0,
+        162,
+        56
+      ],
+      "sha256": "141a945807041cc30e72d0c2a391684e62b8a323cdb442b0a62952136be2c2ba"
+    },
+    {
+      "path": "qyx/qyx-outline.png",
+      "identity": "qyx",
+      "variant": "outline",
+      "width": 190,
+      "height": 56,
+      "hasAlpha": true,
+      "alphaBounds": [
+        19,
+        0,
+        175,
+        56
+      ],
+      "sha256": "c2f613e6df34ad31e42f2187d6cb4133491c06084bb62fb91ec2f7d7ff88eb6c"
+    },
+    {
+      "path": "qyx/qyx-silver-metallic.png",
+      "identity": "qyx",
+      "variant": "silver-metallic",
+      "width": 185,
+      "height": 56,
+      "hasAlpha": true,
+      "alphaBounds": [
+        8,
+        0,
+        173,
+        56
+      ],
+      "sha256": "f5ce2a765d9a9f2c006d39ac8cc8081494760cba1cfe6eada7077a783db8ab4d"
+    },
+    {
+      "path": "qyx/qyx-white.png",
+      "identity": "qyx",
+      "variant": "white",
+      "width": 183,
+      "height": 56,
+      "hasAlpha": true,
+      "alphaBounds": [
+        0,
+        0,
+        169,
+        56
+      ],
+      "sha256": "f6867bb8fe9f33b692ad568ccf07cbcac4650c089c70ed56afd18306a5ddd37a"
+    },
+    {
+      "path": "qyx/qyx20-black.png",
+      "identity": "qyx20",
+      "variant": "black",
+      "width": 182,
+      "height": 50,
+      "hasAlpha": true,
+      "alphaBounds": [
+        5,
+        0,
+        177,
+        50
+      ],
+      "sha256": "3bba3f46af6fe00fbfa8a9094185897f70fe75df94e41811721cb5eec3e48750"
+    },
+    {
+      "path": "qyx/qyx20-outline.png",
+      "identity": "qyx20",
+      "variant": "outline",
+      "width": 190,
+      "height": 50,
+      "hasAlpha": true,
+      "alphaBounds": [
+        15,
+        0,
+        179,
+        50
+      ],
+      "sha256": "474e2691e4d354e771b42e1e0568fd4250e0c77dd02f2e003fb0bf08ee021170"
+    },
+    {
+      "path": "qyx/qyx20-silver-metallic.png",
+      "identity": "qyx20",
+      "variant": "silver-metallic",
+      "width": 185,
+      "height": 50,
+      "hasAlpha": true,
+      "alphaBounds": [
+        9,
+        0,
+        175,
+        50
+      ],
+      "sha256": "e4f9c38aad06cb498ad2f3f778487b473ba6e0f8437f88c7cafd92364f826cd3"
+    },
+    {
+      "path": "qyx/qyx20-white.png",
+      "identity": "qyx20",
+      "variant": "white",
+      "width": 183,
+      "height": 50,
+      "hasAlpha": true,
+      "alphaBounds": [
+        0,
+        0,
+        171,
+        50
+      ],
+      "sha256": "3600b00988acb309fd83a618e47477566635feda181ecd0409cf1f613bfd36bd"
+    },
+    {
+      "path": "qyx/qyxai-black.png",
+      "identity": "qyxai",
+      "variant": "black",
+      "width": 182,
+      "height": 56,
+      "hasAlpha": true,
+      "alphaBounds": [
+        5,
+        0,
+        166,
+        52
+      ],
+      "sha256": "d747ec9d9cfe8c25f86a1d0511b845d0678f13e78fa5be2709668399b96f2706"
+    },
+    {
+      "path": "qyx/qyxai-outline.png",
+      "identity": "qyxai",
+      "variant": "outline",
+      "width": 190,
+      "height": 56,
+      "hasAlpha": true,
+      "alphaBounds": [
+        21,
+        0,
+        177,
+        52
+      ],
+      "sha256": "345c717c906e25f8184121387ee034b4eb2e18799970a7703f4e38dcf440ab10"
+    },
+    {
+      "path": "qyx/qyxai-silver-metallic.png",
+      "identity": "qyxai",
+      "variant": "silver-metallic",
+      "width": 185,
+      "height": 56,
+      "hasAlpha": true,
+      "alphaBounds": [
+        10,
+        0,
+        171,
+        56
+      ],
+      "sha256": "1640e432e2f3a033f785e99cabc8d76f6e0eb017091699cf57d17663e03f664f"
+    },
+    {
+      "path": "qyx/qyxai-white.png",
+      "identity": "qyxai",
+      "variant": "white",
+      "width": 183,
+      "height": 56,
+      "hasAlpha": true,
+      "alphaBounds": [
+        0,
+        0,
+        166,
+        51
+      ],
+      "sha256": "2db2752475a453c009c726040d619d67d4facf917dde7cf3b03433c626f46a7d"
+    },
+    {
+      "path": "qyx/qyxar-black.png",
+      "identity": "qyxar",
+      "variant": "black",
+      "width": 182,
+      "height": 57,
+      "hasAlpha": true,
+      "alphaBounds": [
+        14,
+        4,
+        178,
+        57
+      ],
+      "sha256": "405d5407762e714e58a1d9b2d00d1218b5965d33e6e2ddbf25dec2210877bcbc"
+    },
+    {
+      "path": "qyx/qyxar-outline.png",
+      "identity": "qyxar",
+      "variant": "outline",
+      "width": 190,
+      "height": 57,
+      "hasAlpha": true,
+      "alphaBounds": [
+        22,
+        4,
+        183,
+        57
+      ],
+      "sha256": "080e51396ba8780073c7577be4cf6e2e577ebd4d49af92122aeff5ab317bb243"
+    },
+    {
+      "path": "qyx/qyxar-silver-metallic.png",
+      "identity": "qyxar",
+      "variant": "silver-metallic",
+      "width": 185,
+      "height": 57,
+      "hasAlpha": true,
+      "alphaBounds": [
+        2,
+        0,
+        171,
+        57
+      ],
+      "sha256": "dfbf4c34870b3e0accd454590e1091d79dcb7e3321e72bb4c8c1545c98249408"
+    },
+    {
+      "path": "qyx/qyxar-white.png",
+      "identity": "qyxar",
+      "variant": "white",
+      "width": 183,
+      "height": 57,
+      "hasAlpha": true,
+      "alphaBounds": [
+        0,
+        0,
+        177,
+        57
+      ],
+      "sha256": "86562a5c0b3c3e75f718faad6e14e5e91879484763942c57b311d9362f7b5574"
+    },
+    {
+      "path": "qyx/qyxos-black.png",
+      "identity": "qyxos",
+      "variant": "black",
+      "width": 182,
+      "height": 63,
+      "hasAlpha": true,
+      "alphaBounds": [
+        3,
+        0,
+        177,
+        63
+      ],
+      "sha256": "955ecd06a61608ce92316a92b28012940a3ba93f9dfe93ec65d3c70bd49df138"
+    },
+    {
+      "path": "qyx/qyxos-outline.png",
+      "identity": "qyxos",
+      "variant": "outline",
+      "width": 190,
+      "height": 63,
+      "hasAlpha": true,
+      "alphaBounds": [
+        16,
+        0,
+        179,
+        63
+      ],
+      "sha256": "152f576dc0cdca2524c34304503ecaf6b917418d344fb584dbc1359a8db2fb8b"
+    },
+    {
+      "path": "qyx/qyxos-silver-metallic.png",
+      "identity": "qyxos",
+      "variant": "silver-metallic",
+      "width": 185,
+      "height": 63,
+      "hasAlpha": true,
+      "alphaBounds": [
+        8,
+        0,
+        172,
+        63
+      ],
+      "sha256": "1346eff41ea9ccf36bfbd8c39d7add1f623dead7c3e683dc63b1a19b0fd61a92"
+    },
+    {
+      "path": "qyx/qyxos-white.png",
+      "identity": "qyxos",
+      "variant": "white",
+      "width": 183,
+      "height": 63,
+      "hasAlpha": true,
+      "alphaBounds": [
+        0,
+        0,
+        174,
+        63
+      ],
+      "sha256": "a6f823a43d45e76afedac6aca57d8d7708f0b1b1c316ccfeb8867b274cfb6898"
+    },
+    {
+      "path": "qyx/qyxtv-black.png",
+      "identity": "qyxtv",
+      "variant": "black",
+      "width": 182,
+      "height": 55,
+      "hasAlpha": true,
+      "alphaBounds": [
+        7,
+        0,
+        172,
+        55
+      ],
+      "sha256": "0bf9b0502f9a9e90a805c8a474f592e38d6a3759e4675c0b0de67b92c24b30ca"
+    },
+    {
+      "path": "qyx/qyxtv-outline.png",
+      "identity": "qyxtv",
+      "variant": "outline",
+      "width": 190,
+      "height": 55,
+      "hasAlpha": true,
+      "alphaBounds": [
+        20,
+        0,
+        184,
+        55
+      ],
+      "sha256": "d83c0b3a9b558ac541fd5f0a3c308d97c47cf2842005bde33db43f3c7251e26c"
+    },
+    {
+      "path": "qyx/qyxtv-silver-metallic.png",
+      "identity": "qyxtv",
+      "variant": "silver-metallic",
+      "width": 185,
+      "height": 55,
+      "hasAlpha": true,
+      "alphaBounds": [
+        8,
+        0,
+        174,
+        55
+      ],
+      "sha256": "a1053f3840a4698ce894b7e42b90ab1ea98714dd1d664132af134ea8dfb3d716"
+    },
+    {
+      "path": "qyx/qyxtv-white.png",
+      "identity": "qyxtv",
+      "variant": "white",
+      "width": 183,
+      "height": 55,
+      "hasAlpha": true,
+      "alphaBounds": [
+        0,
+        0,
+        175,
+        55
+      ],
+      "sha256": "85acf4d1dee604bc6af077c604e8d41d3200d8e2281b7fbfad44ac3ea4030f4c"
+    },
+    {
+      "path": "qyx/qyxvr-black.png",
+      "identity": "qyxvr",
+      "variant": "black",
+      "width": 182,
+      "height": 60,
+      "hasAlpha": true,
+      "alphaBounds": [
+        5,
+        5,
+        172,
+        54
+      ],
+      "sha256": "e6c4ee5933bd501db3b9c99fc72790e135a2f82f32223b42d8185dd95ea8abec"
+    },
+    {
+      "path": "qyx/qyxvr-outline.png",
+      "identity": "qyxvr",
+      "variant": "outline",
+      "width": 190,
+      "height": 60,
+      "hasAlpha": true,
+      "alphaBounds": [
+        21,
+        3,
+        185,
+        56
+      ],
+      "sha256": "8548060365f8293fedec8937b9805443363c61f967edd4eebf4b3167b645aafb"
+    },
+    {
+      "path": "qyx/qyxvr-silver-metallic.png",
+      "identity": "qyxvr",
+      "variant": "silver-metallic",
+      "width": 185,
+      "height": 60,
+      "hasAlpha": true,
+      "alphaBounds": [
+        10,
+        5,
+        171,
+        56
+      ],
+      "sha256": "a62f2ec87186d199cb2f0f456fc271afd48d65ccb7383b6e42e97bad81733381"
+    },
+    {
+      "path": "qyx/qyxvr-white.png",
+      "identity": "qyxvr",
+      "variant": "white",
+      "width": 183,
+      "height": 60,
+      "hasAlpha": true,
+      "alphaBounds": [
+        0,
+        3,
+        173,
+        60
+      ],
+      "sha256": "7b1df1ed1d6d5e192d7c47a974a81f51cf86e89a2066153ab31b20aa6de5434b"
+    }
+  ],
+  "unresolvedFamilies": [
+    "console",
+    "vault",
+    "social",
+    "pilot",
+    "arcade",
+    "connect",
+    "wallet",
+    "search",
+    "security",
+    "design",
+    "events",
+    "access",
+    "bridge",
+    "explorer"
+  ],
+  "notes": [
+    "QYXpass/QYXnext are not assumed to represent Identity & Access/Pilot Access without identity confirmation.",
+    "Black/white variants selected for contrast; metallic/outline originals retained for review, not enlarged or filtered.",
+    "No sourced additional legal notice or higher-resolution hero original supplied."
+  ]
+}

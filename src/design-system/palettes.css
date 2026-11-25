@@ -1,0 +1,136 @@
+/* Foundations → source edition palettes → semantic roles → components. */
+@font-face {
+  font-family: Inter;
+  src: url("/fonts/inter-latin-400-normal.woff2") format("woff2");
+  font-display: swap;
+}
+@font-face {
+  font-family: Orbitron;
+  src: url("/fonts/orbitron-latin-500-normal.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 500;
+}
+@font-face {
+  font-family: "JetBrains Mono";
+  src: url("/fonts/jetbrains-mono-latin-400-normal.woff2") format("woff2");
+  font-display: swap;
+}
+:root {
+  --canvas: #090b0c;
+  --surface: #17191b;
+  --text: #f5f4f0;
+  --accent: #d4c4a8;
+  color-scheme: dark;
+}
+[data-edition="01"] {
+  --canvas: #090b0d;
+  --surface: #191b1e;
+  --text: #f6f6f4;
+  --accent: #c5c7ca;
+  color-scheme: dark;
+}
+[data-edition="02"] {
+  --canvas: #f4f4f0;
+  --surface: #e8e8e5;
+  --text: #1a1b1e;
+  --accent: #777d81;
+  color-scheme: light;
+}
+[data-edition="03"] {
+  --canvas: #c8cbcc;
+  --surface: #e2e2e0;
+  --text: #171d20;
+  --accent: #7e858d;
+  color-scheme: light;
+}
+[data-edition="04"] {
+  --canvas: #f3f3f0;
+  --surface: #ffffff;
+  --text: #171717;
+  --accent: #4a4a4a;
+  color-scheme: light;
+}
+[data-edition="05"] {
+  --canvas: #eee8dd;
+  --surface: #f6f2e9;
+  --text: #28231e;
+  --accent: #a78e71;
+  color-scheme: light;
+}
+[data-edition="06"] {
+  --canvas: #eae9e5;
+  --surface: #f5f3ee;
+  --text: #20242a;
+  --accent: #a88b60;
+  color-scheme: light;
+}
+[data-edition="07"] {
+  --canvas: #151a1f;
+  --surface: #23292e;
+  --text: #f0eee9;
+  --accent: #c2aa81;
+  color-scheme: dark;
+}
+[data-edition="08"] {
+  --canvas: #192027;
+  --surface: #232c34;
+  --text: #f1f0ec;
+  --accent: #b8a589;
+  color-scheme: dark;
+}
+[data-edition="09"] {
+  --canvas: #f4f4f1;
+  --surface: #ffffff;
+  --text: #16181a;
+  --accent: #a5a5a1;
+  color-scheme: light;
+}
+[data-edition="10"] {
+  --canvas: #090b0c;
+  --surface: #17191b;
+  --text: #f5f4f0;
+  --accent: #d4c4a8;
+  color-scheme: dark;
+}
+[data-edition="11"] {
+  --canvas: #f2ede5;
+  --surface: #fff9ee;
+  --text: #27221d;
+  --accent: #c4a279;
+  color-scheme: light;
+}
+[data-edition="12"] {
+  --canvas: #0e0c0a;
+  --surface: #1b1815;
+  --text: #f7f0e6;
+  --accent: #ba955e;
+  color-scheme: dark;
+}
+[data-edition="13"] {
+  --canvas: #1a1f23;
+  --surface: #2c3338;
+  --text: #f0f1ee;
+  --accent: #b6a588;
+  color-scheme: dark;
+}
+[data-edition="14"] {
+  --canvas: #cdd3d8;
+  --surface: #e6eaec;
+  --text: #1a2024;
+  --accent: #9d8f7a;
+  color-scheme: light;
+}
+[data-edition="15"] {
+  --canvas: #23282c;
+  --surface: #33393b;
+  --text: #f4f0e7;
+  --accent: #c7ae87;
+  color-scheme: dark;
+}
+[data-edition="09"][data-variant="dark"] {
+  --canvas: #090b0d;
+  --surface: #121518;
+  --text: #f5f4f0;
+  --accent: #c5c7ca;
+  color-scheme: dark;
+}

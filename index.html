@@ -1,15 +1,17 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" data-edition="10">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="theme-color" content="#f6f5fa" />
+    <meta name="theme-color" content="#090B0C" />
+    <script src="/appearance-init.js"></script>
+    <link rel="stylesheet" href="/src/design-system/palettes.css" />
     <meta
       name="description"
-      content="Explore the QuantumYield ecosystem. Discover QYXOS, QYX AI, wallets, payments, community, and the projects bringing it all together."
+      content="Explore the QuantumYield ecosystem. Discover QYXos, QYXai, wallets, payments, community, and the projects bringing it all together."
     />
     <title>Explore the ecosystem | QuantumYield</title>
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="icon" type="image/png" href="/brand/qyx/q-emblem-black.png" />
     <script type="module" src="/src/main.js"></script>
   </head>
   <body>
@@ -18,11 +20,13 @@
     <header class="site-header">
       <a class="wordmark" href="#" aria-label="QuantumYield home"
         ><img
-          src="/favicon.svg"
-          alt=""
-          width="33"
+          data-brand="quantumyield"
+          class="brand-lockup"
+          src="/brand/qyx/quantumyield-white.png"
+          alt="QuantumYield"
+          width="183"
           height="33"
-        />QuantumYield<span class="brand-divider"></span
+        /><span class="brand-divider"></span
         ><span class="explore-word">Explore</span></a
       >
       <button
@@ -36,6 +40,8 @@
       </button>
       <nav id="main-nav" aria-label="Main navigation">
         <a href="#spotlight">The highlights</a><a href="#ecosystem">Ecosystem</a
+        ><button data-open-appearance class="motion-toggle">
+          Visual editions</button
         ><button id="motion-toggle" class="motion-toggle" aria-pressed="false">
           Pause motion <span aria-hidden="true">Ⅱ</span></button
         ><a class="nav-cta" href="#journey"
@@ -77,25 +83,39 @@
           <div class="orbital orbital-two"></div>
           <div class="orbital orbital-three"></div>
           <div class="planet-core">
-            <span>Q</span><small>QUANTUMYIELD</small>
+            <img
+              data-brand="q-emblem"
+              src="/brand/qyx/q-emblem-white.png"
+              alt="QuantumYield Q emblem"
+              width="150"
+              height="67"
+            />
           </div>
           <button class="satellite sat-os" data-product="qyxos">
-            <span class="sat-icon">⌘</span
-            ><span>QYXOS<small>Your digital space</small></span
+            <span class="sat-icon"
+              ><img
+                data-brand="qyxos"
+                src="/brand/qyx/qyxos-white.png"
+                alt="" /></span
+            ><span>QYXos<small>Your digital space</small></span
             ><b>↗</b>
           </button>
           <button class="satellite sat-ai" data-product="ai">
-            <span class="sat-icon">✳</span
-            ><span>QYX AI<small>A little more possibility</small></span
+            <span class="sat-icon"
+              ><img
+                data-brand="qyxai"
+                src="/brand/qyx/qyxai-white.png"
+                alt="" /></span
+            ><span>QYXai<small>A little more possibility</small></span
             ><b>↗</b>
           </button>
           <button class="satellite sat-vault" data-product="vault">
-            <span class="sat-icon">◈</span
+            <span class="sat-icon" aria-hidden="true">01</span
             ><span>QYX Vault<small>Explore your assets</small></span
             ><b>↗</b>
           </button>
           <button class="satellite sat-social" data-product="social">
-            <span class="sat-icon">◎</span
+            <span class="sat-icon" aria-hidden="true">02</span
             ><span>Q Social<small>Find your people</small></span
             ><b>↗</b>
           </button>
@@ -261,14 +281,14 @@
             ><button data-product="qyxos">
               <span>02</span>
               <div>
-                Find your workspace<small>Meet QYXOS and the consoles</small>
+                Find your workspace<small>Meet QYXos and the consoles</small>
               </div>
               <b>↗</b></button
             ><button data-product="ai">
               <span>03</span>
               <div>
                 Think beyond the ordinary<small
-                  >Discover the QYX AI projects</small
+                  >Discover the QYXai projects</small
                 >
               </div>
               <b>↗</b>
@@ -279,9 +299,17 @@
     </main>
     <footer class="site-footer section-shell">
       <a class="wordmark" href="#"
-        ><img src="/favicon.svg" alt="" width="30" height="30" />QuantumYield</a
-      >
+        ><img
+          data-brand="quantumyield"
+          class="brand-lockup"
+          src="/brand/qyx/quantumyield-white.png"
+          alt="QuantumYield"
+          width="183"
+          height="33"
+      /></a>
       <p>A connected universe of possibility.</p>
+      <button data-open-appearance class="text-link">Visual editions</button
+      ><a href="?review=design-system">Design-system review</a>
       <a href="#ecosystem">Explore all projects ↑</a>
       <div class="footer-bottom">
         <span>© 2026 QuantumYield</span
@@ -302,12 +330,46 @@
           ×
         </button>
       </div>
+      <button data-open-appearance class="text-link">Visual editions</button>
       <div id="dialog-content"></div>
       <div class="dialog-bottom">
         <button id="dialog-prev" class="text-link">← Previous</button
         ><span id="dialog-position"></span
         ><button id="dialog-next" class="text-link">Next →</button>
       </div>
+    </dialog>
+    <dialog id="appearance-dialog" aria-labelledby="appearance-title">
+      <div class="dialog-top">
+        <h2 id="appearance-title">Visual editions</h2>
+        <button
+          class="icon-button"
+          id="appearance-close"
+          aria-label="Close visual editions"
+        >
+          ×
+        </button>
+      </div>
+      <p class="appearance-intro">
+        One ecosystem. Fifteen perspectives. A proposal for review.
+      </p>
+      <fieldset id="edition-choices">
+        <legend class="sr-only">Choose a visual edition</legend>
+      </fieldset>
+      <div class="appearance-settings">
+        <label
+          ><input type="checkbox" id="outline-dark" /> Outline Minimal · Dark
+          (Edition 09 variant)</label
+        >
+        <label
+          ><input type="checkbox" id="reduce-transparency" /> Reduce
+          transparency</label
+        >
+        <p id="transparency-status"></p>
+        <button id="appearance-reset" class="button primary">
+          Reset appearance
+        </button>
+      </div>
+      <p id="appearance-status" role="status"></p>
     </dialog>
   </body>
 </html>
