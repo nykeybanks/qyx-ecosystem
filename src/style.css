@@ -1278,6 +1278,13 @@ dialog::backdrop {
   animation-play-state: paused !important;
   scroll-behavior: auto !important;
 }
+.motion-paused .hero-copy,
+.motion-paused .universe,
+.motion-paused .story-copy,
+.motion-paused .product-card,
+.motion-paused dialog[open] {
+  animation: none !important;
+}
 .motion-paused .reveal {
   transition: none;
   opacity: 1;
